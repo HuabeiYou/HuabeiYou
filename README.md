@@ -12,8 +12,7 @@ I'm Huabei You, a Full Stack Developer.
 - 🔥 I like challenging tasks!
 - 🎮 I'm a fan of Nintendo, my favorite game is BotW
 - <img src="https://media.giphy.com/media/cOR2fPCZgErzi6COcG/giphy.gif" width="40"/> My favorite Pokemon is Rowlet
-- 🎉 Fun-Fact: Philosophy and religion fascinates me
-
+- 🎉 Fun-Fact: I'm into Philosophy and Religion
 
 <div>
     <h4>Languages:</h4>
