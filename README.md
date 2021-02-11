@@ -4,7 +4,7 @@ I'm Huabei You, a Full Stack Developer.
 [![Gmail Badge](https://img.shields.io/badge/huabeiyou-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:huabeiyou@gmail.com)](mailto:huabeiyou@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/discord-7289DA.svg?&style=flat&logo=discord&logoColor=white&link=https://discord.gg/8Q25BmJP)](https://discord.gg/8Q25BmJP)
 
-<img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" align=right>
+<img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" align=right width="380" height="350">
 
 #### ⚡️ About me
 - ✌️ I’m 100% self-taught
