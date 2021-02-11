@@ -6,14 +6,16 @@ I'm Huabei You, a Full Stack Developer.
 
 <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" align=right width="380" height="350">
 
-#### ⚡️ About me
+<br/>
+
+### ⚡️ About me
 - ✌️ I’m 100% self-taught
 - 💻 I’m currently learning Swift and CI/CD
 - 😭 I always need help with CSS
 - 🔥 I like challenging tasks!
 - 🎮 I'm a fan of Nintendo
 - <img src="https://media.giphy.com/media/cOR2fPCZgErzi6COcG/giphy.gif" width="40"/> My favorite Pokemon is Rowlet
-- 🤔 Fun-Fact: I'm into Philosophy and Religion
+- 🤔 Fun Fact: I'm interested in anything about Religion and Philosophy
 
 <br/>
 <br/>
