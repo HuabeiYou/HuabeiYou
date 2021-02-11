@@ -1,5 +1,20 @@
-<h2> Hi, there! <img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" width="100"></h2>
-I'm Huabei You, a self-taught full stack developer.
+<h2> Hi, there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+I'm Huabei You, a Full Stack Developer.
+
+[![Gmail Badge](https://img.shields.io/badge/huabeiyou-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:huabeiyou@gmail.com)](mailto:huabeiyou@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/discord-7289DA.svg?&style=flat&logo=discord&logoColor=white&link=https://discord.gg/8Q25BmJP)](https://discord.gg/8Q25BmJP)
+
+<img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" align=right>
+
+#### ⚡️ About me
+- ✌️ I’m 100% self-taught
+- 💻 I’m currently learning Swift and CI/CD
+- 🔥 I like challenging tasks!
+- 🎮 I'm a fan of Nintendo, my favorite game is BotW
+- <img src="https://media.giphy.com/media/cOR2fPCZgErzi6COcG/giphy.gif" width="40"/> My favorite Pokemon is Rowlet
+- 🎉 Fun-Fact: Philosophy and religion fascinates me
+
+
 <div>
     <h4>Languages:</h4>
     <p>
@@ -37,5 +52,5 @@ I'm Huabei You, a self-taught full stack developer.
     <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
     </p>
 </div>
-<h3>Enjoy a random meme:</h3>
+<h3>🤣 Enjoy a random meme:</h3>
 <img src='https://random-memer.herokuapp.com/' title="" alt="">
