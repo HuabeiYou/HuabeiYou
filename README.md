@@ -11,13 +11,13 @@ I'm Huabei You, a Full Stack Developer.
 - 💻 I’m currently learning Swift and CI/CD
 - 😭 I always need help with CSS
 - 🔥 I like challenging tasks!
-- 🎮 I'm a fan of Nintendo, my favorite game is BotW
+- 🎮 I'm a fan of Nintendo
 - <img src="https://media.giphy.com/media/cOR2fPCZgErzi6COcG/giphy.gif" width="40"/> My favorite Pokemon is Rowlet
 - 🤔 Fun-Fact: I'm into Philosophy and Religion
 
 <br/>
 <br/>
-
+<br/>
 
 <div>
     <h4>Languages:</h4>
