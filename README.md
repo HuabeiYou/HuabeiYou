@@ -3,4 +3,4 @@ I'm Huabei You, a Full Stack Web Developer.
 
 [![Gmail Badge](https://img.shields.io/badge/huabeiyou-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:huabeiyou@gmail.com)](mailto:huabeiyou@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huabeiyou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huabeiyou&layout=compact&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
